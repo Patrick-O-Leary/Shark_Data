@@ -1,1 +1,3 @@
-patrick commit
+git add * 
+git commit -a -m "your mesage"
+git push
